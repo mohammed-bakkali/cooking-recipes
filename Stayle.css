@@ -1,0 +1,31 @@
+
+.col-sm-12.col-md-4.col-lg-4 {
+	padding-bottom: 12PX;
+}
+
+#window{
+    display: none;
+    width: 743PX;
+    height: 325PX;
+    position: absolute;
+    top: 85px;
+    left: 218px;
+}
+
+img{
+    cursor: pointer;
+}
+
+.pagination{
+    padding-left: 81px;
+padding-top: 18px;
+}
+
+
+.form-select{
+    width: 150px;
+}
+
+#regions{
+    
+}
